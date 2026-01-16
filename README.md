@@ -32,3 +32,5 @@ This writes a plot to `01_minimal-llm-inference-engine/result/batch_size_bench.p
 - Throughput vs batch size
 - Average latency vs batch size
 - P50/P95 latency comparison
+
+![Batch size benchmark plot](01_minimal-llm-inference-engine/result/batch_size_bench.png)
